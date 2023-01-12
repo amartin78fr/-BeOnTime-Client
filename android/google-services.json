@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1006978319441",
+    "project_id": "beontime-288116",
+    "storage_bucket": "beontime-288116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006978319441:android:3946ae0c586a736a1be470",
+        "android_client_info": {
+          "package_name": "com.beontime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006978319441-te4ojm40htlr5bo9ev3a7pgplmftrqbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_UMqjN2WTqoLSsMhusONMpaLCnly5j7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006978319441-te4ojm40htlr5bo9ev3a7pgplmftrqbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1006978319441-nrpqocl7npgsnkmjnfv6bdf20sdq3c3j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.beontimeagent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006978319441:android:5a4264171ba84c7c1be470",
+        "android_client_info": {
+          "package_name": "com.beontimeagent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006978319441-te4ojm40htlr5bo9ev3a7pgplmftrqbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_UMqjN2WTqoLSsMhusONMpaLCnly5j7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006978319441-te4ojm40htlr5bo9ev3a7pgplmftrqbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1006978319441-nrpqocl7npgsnkmjnfv6bdf20sdq3c3j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.beontimeagent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
